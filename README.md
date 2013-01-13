@@ -10,7 +10,7 @@ My own pcaps from HackEire can be found at https://github.com/markofu/hackeire/t
 HOW
 ===
 
-- *git clone git://github.com/markofu/pcaps.git* [the *pcaps* repo will be around 1.1gb btw]
+- *git clone git://github.com/markofu/pcaps.git* [the *pcaps* repo will be just under 3gb btw]
 
 - Play around with *tcpdump*, *tshark*, *Wireshark* or mabye use *tcpreplay* to replay a pcap through a NSM solution like Security Onion, who knows :)
 
