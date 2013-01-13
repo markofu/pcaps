@@ -7,11 +7,15 @@ They're all free and open to the public so I don't think I'm violating any licne
 
 My own pcaps from HackEire can be found at https://github.com/markofu/hackeire/tree/master/2010/pcap and https://github.com/markofu/hackeire/tree/master/2011/pcap.
 
-WHAT TO DO
-==========
+HOW
+===
 
 - *git clone git://github.com/markofu/pcaps.git* [the *pcaps* repo will be around 1.1gb btw]
 
 - Play around with *tcpdump*, *tshark*, *Wireshark* or mabye use *tcpreplay* to replay a pcap through a NSM solution like Security Onion, who knows :)
 
+TO DO
+=====
+
+- Free up some local disk space so I can add more pcaps to the repo :)
 
